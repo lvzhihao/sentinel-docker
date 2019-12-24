@@ -1,0 +1,7 @@
+*.jar
+*.log
+
+# vim
+*.swp
+*.swo
+*.swa
